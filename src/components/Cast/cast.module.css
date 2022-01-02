@@ -1,0 +1,13 @@
+.list {
+  list-style: none;
+  font-size: 14px;
+}
+
+.name {
+  font-weight: 700;
+}
+.performer {
+  color: rgb(182, 126, 13);
+  font-weight: 700;
+  margin-bottom: 10px;
+}

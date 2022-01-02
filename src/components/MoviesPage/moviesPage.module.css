@@ -1,0 +1,22 @@
+.button {
+  margin: 10px 0 10px 0;
+  opacity: 0.8;
+  background: url(/src/img/back.png) no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+  background-color: rgb(202, 149, 5);
+  width: 80px;
+  height: 75px;
+  text-align: right;
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: rgb(240, 238, 232);
+}
+
+.button:hover {
+  cursor: pointer;
+}
+.list {
+  list-style: none;
+}

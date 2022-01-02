@@ -1,0 +1,19 @@
+.title {
+  margin-top: 10px;
+  font-weight: 700;
+  color: goldenrod;
+}
+.author {
+  color: goldenrod;
+  font-weight: 700;
+}
+.content {
+  line-height: 1.4;
+  color: rgb(190, 151, 22);
+}
+.list {
+  list-style: none;
+}
+.listItem {
+  margin-bottom: 15px;
+}

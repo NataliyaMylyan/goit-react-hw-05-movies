@@ -1,0 +1,13 @@
+.title {
+  margin: 20px 0 0 35px;
+  color: rgb(208, 216, 101);
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.list {
+  list-style: none;
+  font-size: 16px;
+  background-color: rgb(179, 168, 119, 90%);
+  border-radius: 5px;
+  width: 400px;
+}

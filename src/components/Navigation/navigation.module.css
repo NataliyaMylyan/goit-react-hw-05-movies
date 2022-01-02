@@ -1,0 +1,44 @@
+/* .link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 500;
+  color: #2a363b;
+  font-size: 18px;
+} */
+
+/* .activeLink {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #2196f3;
+} */
+.wrapper {
+  margin-left: 100px;
+  font-size: 24px;
+}
+.active {
+  display: inline-block;
+  text-decoration: none;
+  padding: 20px;
+  font-weight: 700;
+  color: #1a0d0288;
+  background-image: url("/src/img/ticket.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.inactive {
+  display: inline-block;
+  text-decoration: none;
+  padding: 20px;
+  font-weight: 700;
+  color: #2a363b;
+}
+
+.navigation {
+  background-color: rgba(228, 178, 42, 0.637);
+  height: 60px;
+}
